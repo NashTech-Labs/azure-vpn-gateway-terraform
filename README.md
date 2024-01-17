@@ -18,7 +18,7 @@ vars.tf: Declares variables used in the configuration files.
 
  1. Clone the repository: $ git clone  https://github.com/NashTech-Labs/azure-vpn-gateway-terraform.git
     
- 2. Navigate to the repository: $ cd creating-vnet-peering-through-terraform
+ 2. Navigate to the repository: $ cd azure-vpn-gateway-terraform
 
  3. Review and customize variable values in terraform.tfvars.
 
